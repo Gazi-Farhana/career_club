@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .btn-purple {
+
+        @apply btn bg-purple-400 border-none;
+    }
+}

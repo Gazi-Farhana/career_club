@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "logo_url": "https://s3.amazonaws.com/cdn.designcrowd.com/blog/100-Famous-Brand%20Logos-From-The-Most-Valuable-Companies-of-2020/google-logo.png",
+    "name": "Google",
+    "title": "Front-End Web Developer",
+    "location": "Atlanta, USA",
+    "salary": "$100,000 - $120,000",
+    "category": "Remote",
+    "duration": "Full Time"
+  },
+  {
+    "id": 3,
+    "logo_url": "https://s3.amazonaws.com/cdn.designcrowd.com/blog/100-Famous-Brand%20Logos-From-The-Most-Valuable-Companies-of-2020/microsoft-logo.png",
+    "name": "Microsoft",
+    "title": "UI/UX Designer",
+    "location": "Seattle",
+    "salary": "$85,000 - $100,000",
+    "category": "Onsite",
+    "onsite": true,
+    "duration": "Full Time"
+  },
+  {
+    "id": 5,
+    "logo_url": "https://s3.amazonaws.com/cdn.designcrowd.com/blog/100-Famous-Brand%20Logos-From-The-Most-Valuable-Companies-of-2020/facebook-logo.png",
+    "name": "Facebook",
+    "title": "Data Scientist",
+    "location": "Chicago",
+    "salary": "$90,000 - $120,000",
+    "category": "Remote",
+    "duration": "Full Time"
+  },
+  {
+    "id": 6,
+    "logo_url": "https://s3.amazonaws.com/cdn.designcrowd.com/blog/100-Famous-Brand%20Logos-From-The-Most-Valuable-Companies-of-2020/samsung-logo.png",
+    "name": "Samsung",
+    "title": "Mobile App Developer",
+    "location": "Chicago",
+    "salary": "$90,000 - $120,000",
+    "category": "Onsite",
+    "onsite": true,
+    "duration": "Full Time"
+  },
+  {
+    "id": 7,
+    "logo_url": "https://s3.amazonaws.com/cdn.designcrowd.com/blog/100-Famous-Brand%20Logos-From-The-Most-Valuable-Companies-of-2020/att-logo.png",
+    "name": "AT&T",
+    "title": "QA Engineer",
+    "location": "Chicago",
+    "salary": "$90,000 - $120,000",
+    "category": "Remote",
+    "duration": "Full Time"
+  },
+  {
+    "id": 8,
+    "logo_url": "https://s3.amazonaws.com/cdn.designcrowd.com/blog/100-Famous-Brand%20Logos-From-The-Most-Valuable-Companies-of-2020/intel-logo.png",
+    "name": "intel",
+    "title": "Technical Writer",
+    "location": "Chicago",
+    "salary": "$90,000 - $120,000",
+    "category": "Onsite",
+    "onsite": true,
+    "duration": "Full Time"
+  },
+  {
+    "id": 9,
+    "logo_url": "https://s3.amazonaws.com/cdn.designcrowd.com/blog/100-Famous-Brand%20Logos-From-The-Most-Valuable-Companies-of-2020/cisco-logo.png",
+    "name": "Cisco",
+    "title": "Network Administrator",
+    "location": "Chicago",
+    "salary": "$90,000 - $120,000",
+    "category": "Remote",
+    "duration": "Full Time"
+  },
+  {
+    "id": 10,
+    "logo_url": "https://s3.amazonaws.com/cdn.designcrowd.com/blog/100-Famous-Brand%20Logos-From-The-Most-Valuable-Companies-of-2020/oracle-logo.png",
+    "name": "Oracle",
+    "title": "IT Project Manager",
+    "location": "Chicago",
+    "salary": "$90,000 - $120,000",
+    "category": "Onsite",
+    "onsite": true,
+    "duration": "Full Time"
+  },
+  {
+    "id": 11,
+    "logo_url": "https://s3.amazonaws.com/cdn.designcrowd.com/blog/100-Famous-Brand%20Logos-From-The-Most-Valuable-Companies-of-2020/ibm-logo.png",
+    "name": "IBM",
+    "title": "Machine Learning Engineer",
+    "location": "Chicago",
+    "salary": "$90,000 - $120,000",
+    "category": "Remote",
+    "duration": "Full Time"
+  },
+  {
+    "id": 12,
+    "logo_url": "https://s3.amazonaws.com/cdn.designcrowd.com/blog/100-Famous-Brand%20Logos-From-The-Most-Valuable-Companies-of-2020/walmart-logo.png",
+    "name": "Walmart",
+    "title": "Frontend Developer",
+    "location": "Chicago",
+    "salary": "$90,000 - $120,000",
+    "category": "Onsite",
+    "onsite": true,
+    "duration": "Full Time"
+  }
+]
