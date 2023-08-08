@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
   return (
     <div className='bg-purple-50'>
-      <navbar className="navbar">
+      <nav className="navbar">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -27,7 +27,7 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <a className="normal-case lg:text-4xl font-bold">Career<span className='text-purple-400'>C</span>lub</a>
+          <a href='/' className="normal-case lg:text-4xl font-bold">Career<span className='text-purple-400'>C</span>lub</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
@@ -44,7 +44,7 @@ const Navbar = () => {
         <div className="navbar-end">
           <button className="btn-purple">Start Applying</button>
         </div>
-      </navbar>
+      </nav>
 
     </div>
   );
