@@ -1,12 +1,9 @@
 const FAQ = () => {
   return (
     <div>
-      <h2 className='text-2xl lg:text-5xl font-bold text-center'>Featured Jobs</h2>
-      <p className="text-center mb-8">
-        We want to provide children with the safest possible play experience.
-        That’s why we have a relentless focus on product safety and require our
-        products to pass a series of rigorous internal and external safety
-        tests.
+      <h2 className='text-2xl lg:text-5xl font-bold text-center'>FAQ</h2>
+      <p className='text-xl my-6'>
+      Welcome to our Frequently Asked Questions (FAQ) section, designed to provide swift answers to your queries about our job hunting services. Discover valuable insights on navigating our platform, optimizing your job search, and making the most of our resources. 
       </p>
       <div className="p-4 lg:p-0 lg:hidden">
           <img
@@ -21,13 +18,11 @@ const FAQ = () => {
             className="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box"
           >
             <div className="collapse-title text-xl font-medium">
-              Are the ingridiests used in lego safe for kids?
+              Why should you take our services?
             </div>
             <div className="collapse-content">
               <p>
-                Lego toys are made free of hazardous chemicals, colors or raw
-                materials. We have the full ingredients list of every raw
-                material and decoration ink we use for LEGO elements.{" "}
+              Our services provide comprehensive support for your job search. We offer personalized guidance, a vast job matching system, and a range of resources to boost your career prospects. Join us to access the tools you need for a successful job hunting journey.{" "}
               </p>
             </div>
           </div>
@@ -36,14 +31,19 @@ const FAQ = () => {
             className="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box"
           >
             <div className="collapse-title text-xl font-medium">
-              What is impact test on lego toy?
+              What are our services?
             </div>
             <div className="collapse-content">
               <p>
-                We drop a 1-kilogram (2-pound) metal disc onto potential weak
-                points on LEGO DUPLO elements from a height of 4.7 inches (12
-                cm). This is to ensure the element does not break or splinter
-                during play.
+              Our services include: <br/>
+
+1. Personalized job matching: Tailored job recommendations based on your skills and preferences.<br/>
+2. Expert guidance: Valuable insights from professionals to refine your job search strategy.<br/>
+3. Interview preparation: Tools and tips to excel in interviews and stand out to employers.<br/>
+4. Resume building: Create compelling resumes that highlight your strengths effectively.<br/>
+5. Direct employer connection: Engage directly with potential employers and network within your industry.
+<br/>
+We're here to ensure your job hunting journey is productive and successful.
               </p>
             </div>
           </div>
@@ -52,14 +52,11 @@ const FAQ = () => {
             className="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box"
           >
             <div className="collapse-title text-xl font-medium">
-              How we do our compression test on lego?
+              How to evaluate your progress?
             </div>
             <div className="collapse-content">
               <p>
-                We simulate a young child stepping on certain LEGO elements by
-                pressing a metal disc with a force equivalent to 33 pounds (15
-                kg) on the element to ensure that it does not break or splinter
-                during play.
+              Evaluating your progress is crucial. Utilize Rechart's insightful analytics to track application responses, interview invitations, and job offers. Monitor your profile's visibility and engagement metrics. Regularly assess your accomplishments against set goals. With Rechart, you gain the data-driven insights needed to adapt and optimize your job search strategy for better results.
               </p>
             </div>
           </div>
@@ -68,15 +65,12 @@ const FAQ = () => {
             className="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box"
           >
             <div className="collapse-title text-xl font-medium">
-              How rigid is lego toys when the fall from high height?
+              How we will build connection between employees & recruiter?
             </div>
             <div className="collapse-content">
               <p>
                 {" "}
-                We drop the elements from a height of 4 feet (1.5 m) and 3 feet
-                (1 m), respectively, five times onto a hard surface to ensure
-                that LEGO DUPLO and LEGO elements do not splinter or break when
-                a child drops them during play.
+                At our core, we facilitate meaningful connections between employees and recruiters. Our platform offers a seamless interface where recruiters can showcase job opportunities and directly engage with potential candidates. Employees can create compelling profiles, explore job listings, and initiate conversations. Through this interactive space, we empower networking, making it easier for the right talents and recruiters to connect, fostering a dynamic environment for successful employment matches.
               </p>
             </div>
           </div>
